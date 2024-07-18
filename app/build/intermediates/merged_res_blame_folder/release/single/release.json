@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/layout_student_item.xml.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/layout/student_item.xml"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/layout_activity_main2.xml.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/menu_my_menu.xml.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/menu/my_menu.xml"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/layout_activity_main3.xml.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/layout/activity_main3.xml"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ps.safiya.ptuk.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "ps.safiya.ptuk.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
