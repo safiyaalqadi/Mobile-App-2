@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيقي</string>
+    <string name="avareg">المعدل</string>
+    <string name="add">اضافة</string>
+    <string name="first">الاول</string>
+    <string name="last">الاخر</string>
+    <string name="sort">ترتيب</string>
+    <string name="name">الاسم</string>
+    <string name="mark">العلامة</string>
+    <string name="nothing">لاشيء</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="avareg">avareg</string>
+    <string name="add">add</string>
+    <string name="first">first</string>
+    <string name="last">Last</string>
+    <string name="sort">sort</string>
+    <string name="name">name</string>
+    <string name="mark">mark:</string>
+    <string name="nothing">nothing</string>
+
+</resources>
